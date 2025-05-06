@@ -1,3 +1,5 @@
+<img src="banner_xamppy.png" alt="GitHub Banner" width="100%" />
+
 # Hello World!, I'm Felipe 👋
 # 💫 About Me:
 🔭 I'm currently working as a Freelancer<br>🌱 Studying at Duoc UC<br>👯 Making the best solutions for all your problems<br>💬 Feel free to contact me
