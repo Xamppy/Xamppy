@@ -1,4 +1,4 @@
-<img src="banner_xamppy.png" alt="GitHub Banner" width="100%" />
+<img src="banner-xamppy.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Felipe 👋
 # 💫 About Me:
