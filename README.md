@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Felipe 👋
 # 💫 About Me:
-🔭 I'm currently working as a Lead Developerv<br>🌱 Studying at Duoc UC<br>👯 Making the best solutions for all your problems<br>
+🔭 I'm currently working as a Lead Developer<br>🌱 Studying at Duoc UC<br>👯 Making the best solutions for all your problems<br>
 
 
 # 💻 Tech Stack:
